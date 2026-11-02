@@ -1,0 +1,22 @@
+{
+  "wheel_id": 667,
+  "structure": "chain",
+  "slug": "theseocompanybrisbane-com-153",
+  "project": "seo-services-brisbane-local-options-compared-3498e55ef0acad6d6d",
+  "parent_t1_ref": "theseocompanybrisbane.com-010",
+  "node_role": "buffer",
+  "money_target": "theseocompanybrisbane.com.au",
+  "primary_kw": "seo services brisbane local options compared",
+  "intended_url": "http://seo-services-brisbane-local-options-compared-3498e55ef0acad6d6d.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "2a44597c60bc26bf",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/theseocompanybrisbane.com-010/",
+      "anchor": "Seo Services Brisbane: A Practical Buyer Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
